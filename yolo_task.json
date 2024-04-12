@@ -1,0 +1,8 @@
+{
+    "log_dir": "server.log",
+    "MIN_NUM_WORKERS": 3,
+    "MAX_NUM_ROUNDS": 15,
+    "NUM_TOLERATE": -1,
+    "NUM_CLIENTS_CONTACTED_PER_ROUND": 3,
+    "nc": 1
+}
