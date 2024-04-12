@@ -1,0 +1,16 @@
+# path
+#
+#train: G:\zuomian\Yolo\ultralytics-FL\dataset\client2\train_2.txt
+#val:
+#test: G:\zuomian\Yolo\ultralytics-FL\dataset\client2\test_2.txt
+
+# shipbone-dataset
+train: G:\zuomian\Yolo\ultralytics-FL\dataset\Ship\train.txt
+val:
+test: G:\zuomian\Yolo\ultralytics-FL\dataset\Ship\test.txt
+
+# nc
+nc: 1
+
+#names
+names: ['vessel']

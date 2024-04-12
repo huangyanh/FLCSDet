@@ -1,0 +1,16 @@
+# path
+
+#train: G:\zuomian\Yolo\ultralytics-FL\dataset\client3\train_3.txt
+#val:
+#test: G:\zuomian\Yolo\ultralytics-FL\dataset\client3\test_3.txt
+
+## UAV
+train: G:\zuomian\Yolo\ultralytics-FL\dataset\UAV\train.txt
+val:
+test: G:\zuomian\Yolo\ultralytics-FL\dataset\UAV\test.txt
+
+# nc
+nc: 1
+
+#names
+names: ['vessel']
