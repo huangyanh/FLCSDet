@@ -13,3 +13,5 @@ Client
 
 Clients must be created after the server.
 python fd_client1.py
+python fd_client2.py
+python fd_client3.py
