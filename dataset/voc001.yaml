@@ -1,0 +1,11 @@
+# path
+
+train: G:\zuomian\Yolo\ultralytics-FL\dataset\client1\train_1.txt
+val:
+test: G:\zuomian\Yolo\ultralytics-FL\dataset\client1\test_1.txt
+
+# nc
+nc: 1
+
+#names
+names: ['vessel']
