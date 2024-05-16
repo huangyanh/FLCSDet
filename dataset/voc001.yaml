@@ -1,7 +1,7 @@
 # path
 
 train: G:\zuomian\Yolo\ultralytics-FL\dataset\client1\train_1.txt
-val:
+val: G:\zuomian\Yolo\ultralytics-FL\dataset\client1\val_1.txt
 test: G:\zuomian\Yolo\ultralytics-FL\dataset\client1\test_1.txt
 
 # nc
