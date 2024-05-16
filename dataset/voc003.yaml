@@ -6,7 +6,7 @@
 
 ## UAV
 train: G:\zuomian\Yolo\ultralytics-FL\dataset\UAV\train.txt
-val:
+val: G:\zuomian\Yolo\ultralytics-FL\dataset\UAV\val.txt
 test: G:\zuomian\Yolo\ultralytics-FL\dataset\UAV\test.txt
 
 # nc
