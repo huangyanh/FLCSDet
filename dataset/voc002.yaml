@@ -6,7 +6,7 @@
 
 # shipbone-dataset
 train: G:\zuomian\Yolo\ultralytics-FL\dataset\Ship\train.txt
-val:
+val: G:\zuomian\Yolo\ultralytics-FL\dataset\Ship\val.txt
 test: G:\zuomian\Yolo\ultralytics-FL\dataset\Ship\test.txt
 
 # nc
